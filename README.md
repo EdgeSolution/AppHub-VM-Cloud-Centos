@@ -5,7 +5,7 @@ Requirement for AppHub：<br>
 CPU >= 1vCPU<br>
 Memory >= 2G<br>
 Storage >= 20G<br>
-Image: CentOS 7.6 64-bit or new（Other Linux have not test and verification）
+Image: CentOS 7.9 64-bit or new（Other Linux have not test and verification）
 
 ## 2.Open the following port: 
  8080, 30001, 30002, 1883, 5432, 5500, 5901, 9191, 9000 
@@ -45,7 +45,7 @@ http://ServerIP:30001
 CPU >= 1vCPU<br>
 Memory >= 2G<br>
 Storage >= 20G<br>
-Image: CentOS 7.6 64-bit 或者更高版本（其他Linux理论上也可以支持，但未经过验证）
+Image: CentOS 7.9 64-bit 或者更高版本（其他Linux理论上也可以支持，但未经过验证）
 
 ## 2．	开放如下的端口：
 8080, 30001, 30002, 1883, 5432, 5500, 5901, 9191, 9000
